@@ -1,10 +1,6 @@
 # DevOps
 
-Readme file for _ssh_ directory.
-
-### Highlight
-
-SSH
+Readme file for DevOps directory.
 
 ### Author
 
